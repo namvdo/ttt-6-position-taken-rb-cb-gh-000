@@ -19,5 +19,5 @@ board = [" "," "," "]
 def move(input, index, character = "X")
   return input[index] = character
 end
-def position_taken(board, input[index])
+def position_taken(board, character)
 end
